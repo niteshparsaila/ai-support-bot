@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What is your refund policy?",
+        "answer": "You can request a full refund within 30 days of purchase if the item is unused."
+    },
+    {
+        "question": "How do I track my order?",
+        "answer": "Go to your Order History page and click on 'Track Shipment' next to your order ID."
+    },
+    {
+        "question": "Do you ship internationally?",
+        "answer": "Yes, we ship to over 50 countries. Shipping fees apply at checkout."
+    },
+    {
+        "question": "I forgot my password",
+        "answer": "Click 'Forgot Password' on the login screen and follow the email instructions."
+    }
+]
