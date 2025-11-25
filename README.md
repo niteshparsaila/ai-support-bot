@@ -44,4 +44,3 @@ ai-support-bot/
 └── static/          # Frontend files (index.html, JS, CSS, etc.)
 
 
-
